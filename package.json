@@ -1,0 +1,21 @@
+{
+  "name": "myapp_pkg",
+  "version": "1.0.0",
+  "description": "fun..",
+  "main": "app.js",
+  "scripts": {
+    "test": "Hello!!"
+  },
+  "repository": {
+    "type": "git",
+    "url": "N"
+  },
+  "keywords": [
+    "NA"
+  ],
+  "author": "Bhushan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
